@@ -1,6 +1,7 @@
 #  selenium_project
 ## selenium框架的使用  
 1，selenium爬取淘宝商品信息  
+   能用class定位就用class     
    selenium使用代理  
 
 2，selenium爬取京东商品信息  
