@@ -1,7 +1,7 @@
 #  selenium_project
 ## 1，selenium爬取淘宝商品信息  
    能用class定位就用class     
-   selenium使用代理  
+   selenium使用代理（不必须）  
 
 ##  2，selenium + scrapy爬取京东商品信息  
   京东的商品列表信息用pyquery解析不了  
