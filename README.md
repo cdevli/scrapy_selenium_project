@@ -1,4 +1,3 @@
-#  selenium_project
 ## 1，selenium爬取淘宝商品信息  
    能用class定位就用class     
    selenium使用代理（不必须）  
