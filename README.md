@@ -10,7 +10,7 @@
   感觉selenium挺费资源的，可以的话，还是抓接口吧。
   
   
-## 3，使用CrawlSpider类爬取京东商品详情和价格  
+## 3，使用CrawlSpider类爬取京东商品详情和价格（jd_crawl_spider）  
 主要是先获取所有请求，从中提取京东的商品详情页  
 从详情页获取商品id  https://item.jd.com/7012222.html  
 请求两个接口  
