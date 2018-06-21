@@ -14,8 +14,8 @@
 主要是先获取所有请求，从中提取京东的商品详情页  
 从详情页获取商品id  https://item.jd.com/7012222.html  
 请求两个接口  
-https://item.m.jd.com/ware/detail.json?wareId=7012222
-https://p.3.cn/prices/mgets?type=1&skuIds=J_7012222
+https://item.m.jd.com/ware/detail.json?wareId=7012222  
+https://p.3.cn/prices/mgets?type=1&skuIds=J_7012222  
 保存到mongodb数据库
 
 
